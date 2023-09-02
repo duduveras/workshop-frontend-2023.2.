@@ -1,6 +1,7 @@
 # README - Projeto do Star Wars
 
-Este é um projeto que contem uma página de inicio com cards de imagens e outra pagina chamada galeria com cards de personagens do Star Wars.
+Este é um projeto que contem uma página de inicio com cards de imagens e outra pagina chamada galeria com cards de personagens do Star Wars. 
+(Obs: Não consegui colocar no vercel mais coloquei fotos do projeto caso tenham interesse em ver como ficou o resultado final)
 
 ## Estrutura de Arquivos
 
